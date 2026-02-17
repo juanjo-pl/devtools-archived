@@ -1,3 +1,7 @@
+# WARNING - Repository was moved
+
+https://github.com/infinnity-card/devtools
+
 # README
 
 Scripts to help development process.  It has a docker composer with the following docker containers:
